@@ -5,14 +5,15 @@
 ## Features
 
 - HTML form to accept user input
-  - Input to accept user input
-  - Number input to accept an age
-  - Select Input to accept position
-  - Input to accept what uniform pieces the player needs
-    - IE: Jersey, Gloves, or Coats
+  - Input to accept user name
+  - Select Input to accept size
+  - Number Input for amount of pizzas requested
+  - Input to accept what toppings are preferred
+    - IE: Pepperoni, Sausage, Mushrooms, Onions, Extra Cheese
+  - Text Input to add customers special instructions
 
 - HTML Table to display the user input \* TEST/MOCK DATA FOR NOW*
-  - th for player name
-  - th for the age
-  - th for field position
-  - th for uniform
+  - td for customer name
+  - td for amount of pizzas needed
+  - td for pizza size
+  - td for toppings
